@@ -1,31 +1,7 @@
 {
-  "name": "V1R Eklentileri",
+  "name": "Eklentiler",
   "version": "2.0",
   "scrapers": [
-    {
-      "id": "asya-animeleri",
-      "name": "AsyaAnimeleri",
-      "description": "AsyaAnimeleri.top uzerinden Turkce dublajli ve altyazili Asya animeleri. @V1R tarafindan gelistirildi.",
-      "version": "1.0.0",
-      "author": "V1R",
-      "supportedTypes": [
-        "tv",
-        "movie"
-      ],
-      "filename": "providers/AsyaAnimeleri.js",
-      "enabled": true,
-      "logo": "https://www.google.com/s2/favicons?domain=asyaanimeleri.top&sz=%size%",
-      "contentLanguage": [
-        "tr"
-      ],
-      "formats": [
-        "mp4",
-        "m3u8"
-      ],
-      "limited": false,
-      "disabledPlatforms": [],
-      "supportsExternalPlayer": true
-    },
     {
       "id": "film-makinesi",
       "name": "FilmMakinesi",
