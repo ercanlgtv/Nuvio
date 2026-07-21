@@ -273,31 +273,6 @@
       "limited": false,
       "disabledPlatforms": [],
       "supportsExternalPlayer": true
-    },
-    {
-      "id": "film-ekseni",
-      "name": "FilmEkseni",
-      "description": "FilmEkseni.cc tabanli film saglayicisi. @V1R tarafindan gelistirildi.",
-      "version": "1.0.0",
-      "author": "V1R",
-      "supportedTypes": [
-        "movie"
-      ],
-      "filename": "providers/FilmEkseni.js",
-      "enabled": true,
-      "logo": "https://www.google.com/s2/favicons?domain=filmekseni.cc&sz=64",
-      "contentLanguage": [
-        "tr"
-      ],
-      "formats": [
-        "m3u8",
-        "mp4",
-        "mkv",
-        "hls"
-      ],
-      "limited": false,
-      "disabledPlatforms": [],
-      "supportsExternalPlayer": true
     }
-  ]
+     ]
 }
