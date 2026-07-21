@@ -64,29 +64,6 @@
       "supportsExternalPlayer": true
     },
     {
-      "id": "666-film",
-      "name": "666Film",
-      "description": "666filmizle.site uzerinden filmler. @V1R tarafindan gelistirildi.",
-      "version": "1.0.0",
-      "author": "V1R",
-      "supportedTypes": [
-        "movie"
-      ],
-      "filename": "providers/666Film.js",
-      "enabled": true,
-      "logo": "https://www.google.com/s2/favicons?domain=666filmizle.site&sz=%size%",
-      "contentLanguage": [
-        "tr"
-      ],
-      "formats": [
-        "mp4",
-        "m3u8"
-      ],
-      "limited": false,
-      "disabledPlatforms": [],
-      "supportsExternalPlayer": true
-    },
-    {
       "id": "hd-film-delisi",
       "name": "HDFilmDelisi",
       "description": "hdfilmdelisi.one uzerinden filmler. @V1R tarafindan gelistirildi.",
