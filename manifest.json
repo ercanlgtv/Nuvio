@@ -2,20 +2,7 @@
   "name": "Ercansat Eklentiler",
   "version": "2.0",
   "scrapers": [
-   {
-      "id": "dizigom",
-      "name": "dizigom",
-      "description": "dizigom for movies and TV shows",
-      "version": "1.0.0",
-      "author": "Nuvio Team",
-      "supportedTypes": ["movie", "tv"],
-      "filename": "providers/dizigom.js",
-      "enabled": true,
-      "formats": ["mp4", "m3u8"],
-      "logo": "https://vidlink.pro/favicon.ico",
-      "contentLanguage": ["tr"]
-      },
-    {
+       {
       "id": "film-makinesi",
       "name": "FilmMakinesi",
       "description": "FilmMakinesi.to uzerinden Turkce dublajli ve altyazili filmler. @V1R tarafindan gelistirildi.",
@@ -42,7 +29,7 @@
     {
       "id": "multi",
       "name": "Multi",
-      "description": "Birden fazla kaynaktan film ve dizi stream linkleri. @V1R tarafindan gelistirildi.",
+      "description": "Birden fazla kaynaktan film ve dizi stream linkleri. ",
       "version": "1.0.0",
       "author": "V1R",
       "supportedTypes": [
@@ -66,7 +53,7 @@
     {
       "id": "hd-film-delisi",
       "name": "HDFilmDelisi",
-      "description": "hdfilmdelisi.one uzerinden filmler. @V1R tarafindan gelistirildi.",
+      "description": "hdfilmdelisi.one uzerinden filmler. ",
       "version": "0.1.0",
       "author": "V1R",
       "supportedTypes": [
@@ -91,7 +78,7 @@
     {
       "id": "dort-khd",
       "name": "DortKHD",
-      "description": "4KHDHub tabanli film ve dizi stream linkleri. @V1R tarafindan gelistirildi.",
+      "description": "4KHDHub tabanli film ve dizi stream linkleri.",
       "version": "1.0.0",
       "author": "V1R",
       "supportedTypes": [
@@ -130,7 +117,7 @@
     {
       "id": "sinewix",
       "name": "SineWix",
-      "description": "SineWix tabanli film ve dizi saglayicisi. @V1R tarafindan gelistirildi.",
+      "description": "SineWix tabanli film ve dizi saglayicisi. ",
       "version": "1.1.0",
       "author": "V1R",
       "supportedTypes": [
@@ -151,81 +138,6 @@
       "limited": false,
       "disabledPlatforms": [],
       "supportsExternalPlayer": true
-    },
-    {
-      "id": "setfilm",
-      "name": "SetFilmIzle",
-      "description": "SetFilmIzle tabanli film ve dizi saglayicisi.",
-      "version": "1.0.0",
-      "author": "V1R",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "providers/Setfilm.js",
-      "enabled": true,
-      "logo": "https://www.google.com/s2/favicons?domain=setfilmizle.uk&sz=64",
-      "contentLanguage": [
-        "tr"
-      ],
-      "formats": [
-        "m3u8",
-        "mp4",
-        "mkv"
-      ],
-      "limited": false,
-      "disabledPlatforms": [],
-      "supportsExternalPlayer": true
-    },
-    {
-      "id": "dizipal",
-      "name": "Dizipal",
-      "description": "Dizipal tabanli film ve dizi saglayicisi.",
-      "version": "1.0.0",
-      "author": "V1R",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "providers/Dizipal.js",
-      "enabled": true,
-      "logo": "https://www.google.com/s2/favicons?domain=dizipal2063.com&sz=64",
-      "contentLanguage": [
-        "tr"
-      ],
-      "formats": [
-        "m3u8",
-        "mp4",
-        "mkv"
-      ],
-      "limited": false,
-      "disabledPlatforms": [],
-      "supportsExternalPlayer": true
-    },
-    {
-      "id": "dizify",
-      "name": "Dizify",
-      "description": "Dizify.org tabanli film ve dizi saglayicisi.",
-      "version": "1.1.0",
-      "author": "V1R",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "providers/Dizify.js",
-      "enabled": true,
-      "logo": "https://www.google.com/s2/favicons?domain=dizify.org&sz=64",
-      "contentLanguage": [
-        "tr"
-      ],
-      "formats": [
-        "m3u8",
-        "mp4",
-        "mkv"
-      ],
-      "limited": false,
-      "disabledPlatforms": [],
-      "supportsExternalPlayer": true
     }
-     ]
+         ]
 }
