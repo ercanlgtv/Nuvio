@@ -1,0 +1,9 @@
+{
+  "name": "mooncrown04",
+  "description": "CloudStream için  Türkçe sinema ve dizi eklentisi.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins.json"
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png"
+}
